@@ -1,0 +1,10 @@
+.container{
+    max-width: 1500px !important;
+}
+.text-justify {
+    text-align: justify;
+}
+
+.card{
+width: 23em !important;
+}
